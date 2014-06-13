@@ -1,0 +1,961 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"length"
+			],
+			[
+				"curr",
+				"currentItemIndex"
+			],
+			[
+				"cur",
+				"currentItemIndex"
+			],
+			[
+				"Class",
+				"classList"
+			],
+			[
+				"clas",
+				"classList"
+			],
+			[
+				"cu",
+				"currentItem"
+			],
+			[
+				"Car",
+				"Carousel"
+			],
+			[
+				"all",
+				"allItems"
+			],
+			[
+				"car",
+				"carousel-items"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"is",
+				"isNext"
+			],
+			[
+				"class",
+				"classNext"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"c",
+				"script  (namespace)"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"pos",
+				"pos:r	position:relative"
+			],
+			[
+				"cover",
+				"coveralls"
+			],
+			[
+				"gu",
+				"gutil"
+			],
+			[
+				"pipe",
+				"pipechain"
+			],
+			[
+				"ex",
+				"execScript"
+			],
+			[
+				"com",
+				"components"
+			],
+			[
+				"node",
+				"node_modules"
+			],
+			[
+				"span",
+				"spawnGit"
+			],
+			[
+				"spa",
+				"spawnGit"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fol",
+				"folders"
+			],
+			[
+				"js",
+				"jsSrc"
+			],
+			[
+				"jour",
+				"journey"
+			],
+			[
+				"erro",
+				"errorInJourney  (variable)"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"backgorund",
+				"background-image"
+			],
+			[
+				"moz-boxs",
+				"-moz-box-sizing:   (property)"
+			],
+			[
+				"bu",
+				"buttonGo"
+			],
+			[
+				"butt",
+				"buttonGoModel"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"new view",
+				"File: New View into File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"hmtl",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"close ",
+				"Project: Close"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pref user",
+				"Preferences: Settings - User"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"asp",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"jshin",
+				"JSHint"
+			],
+			[
+				"jshint",
+				"JSHint"
+			],
+			[
+				"convert tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"list pag",
+				"Package Control: List Packages"
+			],
+			[
+				"html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML5"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"insatll",
+				"Package Control: Install Package"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rishabhr/Projects/ikebana/template/component/style/component.scss",
+		"/Users/rishabhr/.zshrc",
+		"/Users/rishabhr/Projects/ikebana/dist/ikebana.css",
+		"/Users/rishabhr/Projects/ikebana/ikebana.sublime-project",
+		"/Users/rishabhr/Projects/ikebana/node_modules/bower/node_modules/mout/lang/isKind.js",
+		"/Users/rishabhr/Projects/ikebana/gulpfile.js",
+		"/Users/rishabhr/Projects/ikebana/lib/components/carousel/css/carousel.css",
+		"/Users/rishabhr/Projects/ikebana/lib/components/carousel/css/button.css",
+		"/Users/rishabhr/Projects/ikebana/lib/components/carousel/js/carousel.js",
+		"/Users/rishabhr/Projects/ikebana/lib/components/carousel/css/carousel.scss",
+		"/Users/rishabhr/Projects/ikebana/lib/components/carousel/carousel.html",
+		"/Users/rishabhr/Projects/ikebana/lib/components/accordion/style/accordion.scss",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-template/node_modules/lodash/dist/lodash.min.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-template/node_modules/lodash/dist/lodash.underscore.js",
+		"/Users/rishabhr/Projects/ikebana/lib/_config.scss",
+		"/Users/rishabhr/Projects/ikebana/lib/components/button/css/button.scss",
+		"/Users/rishabhr/Projects/ikebana/lib/components/test-acc/style/test-acc.scss",
+		"/Users/rishabhr/Projects/ikebana/template/component/component.html",
+		"/Users/rishabhr/Projects/ikebana/task/config/DIR.js",
+		"/Users/rishabhr/Projects/ikebana/task/create.js",
+		"/Users/rishabhr/Projects/ikebana/package.json",
+		"/Users/rishabhr/Projects/ikebana/template/component/style/_config.scss",
+		"/Users/rishabhr/Projects/ikebana/lib/components/button/button.html",
+		"/Users/rishabhr/Projects/ikebana/lib/components/button/css/_config.scss",
+		"/Users/rishabhr/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/rishabhr/Projects/ikebana/template/component/package.json",
+		"/Users/rishabhr/Projects/ikebana/readme.md",
+		"/Users/rishabhr/Projects/ikebana/node_modules/event-stream/test/readArray.asynct.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-uglify/node_modules/through2/node_modules/xtend/has-keys.js",
+		"/Users/rishabhr/Projects/ikebana/lib/components/button/button.scss",
+		"/Users/rishabhr/Projects/ikebana/lib/components/core/layout-fixed-header/layout-fixed-header.sass",
+		"/Users/rishabhr/Projects/ikebana/dist/components/carousel/js/carousel.js",
+		"/Users/rishabhr/Projects/ikebana/.travis.yml",
+		"/Users/rishabhr/Projects/ikebana/coverage/lcov.info",
+		"/Users/rishabhr/Projects/ikebana/lib/components/core/core.sass",
+		"/Users/rishabhr/Projects/ikebana/Gemfile.lock",
+		"/Users/rishabhr/Projects/compass-example/config.rb",
+		"/Users/rishabhr/Projects/compass-example/style.scss",
+		"/Users/rishabhr/Projects/compass-example/style.css",
+		"/Users/rishabhr/Projects/ikebana/bower.json",
+		"/Users/rishabhr/Projects/ikebana/.git/config",
+		"/Users/rishabhr/Projects/ikebana/task/js-lint.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/bower/node_modules/mout/lang/ctorApply.js",
+		"/Users/rishabhr/Projects/ikebana/lib/components/sample-accordion/css/sample-accordion.scss",
+		"/Users/rishabhr/Projects/ikebana/coverage/coverage-final.json",
+		"/Users/rishabhr/Projects/ikebana/node_modules/.bin/coveralls",
+		"/Users/rishabhr/Projects/ikebana/bower_components/jquery/test/data/core/cc_on.html",
+		"/Users/rishabhr/Projects/ikebana/node_modules/bower/node_modules/request/node_modules/node-uuid/test/compare_v1.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/event-stream/node_modules/from/LICENSE.APACHE2",
+		"/Users/rishabhr/Projects/ikebana/license.md",
+		"/Users/rishabhr/Projects/ikebana/Gemfile",
+		"/Users/rishabhr/Desktop/hello.html",
+		"/Users/rishabhr/Documents/Personal/People/Rishabh/Travel/Expensify/filling-report.txt",
+		"/Users/rishabhr/Projects/ikebana/lib/components/panel/css/panel.scss",
+		"/Users/rishabhr/Projects/ikebana/lib/components/panel/panel.html",
+		"/Users/rishabhr/Projects/ikebana/lib/components/button/js/button.js",
+		"/Users/rishabhr/Projects/ikebana/lib/components/sample-badge/css/sample-badge.scss",
+		"/Users/rishabhr/Projects/ikebana/.bowerrc",
+		"/Users/rishabhr/Projects/ikebana/lib/components/sample-badge/js/sample-badge.js",
+		"/Users/rishabhr/Projects/ikebana/.jshintrc",
+		"/Users/rishabhr/Projects/ikebana/.gitignore",
+		"/Users/rishabhr/Projects/ikebana/lib/components/sample-badge/sample-badge.html",
+		"/Users/rishabhr/Projects/ikebana/node_modules/bower/node_modules/fstream/examples/reader.js",
+		"/Users/rishabhr/Projects/ikebana/dist/components/sample-badge/sample-badge.html",
+		"/Users/rishabhr/Projects/ikebana/.gitattributes",
+		"/Users/rishabhr/Projects/ikebana/lib/components/sample-accordion/js/sample-accordion.js",
+		"/Users/rishabhr/Projects/ikebana/lib/components/sample-accordion/test/sample-accordion.js",
+		"/Users/rishabhr/Projects/ikebana/lib/components/sample-tab/css/sample-tab.scss",
+		"/Users/rishabhr/Projects/ikebana/lib/components/sample-tab/js/sample-tab.js",
+		"/Users/rishabhr/Projects/ikebana/lib/components/sample-tab/test/sample-tab.js",
+		"/Users/rishabhr/Projects/ikebana/lib/components/sample-tooltip/css/sample-tooltip.scss",
+		"/Users/rishabhr/Projects/ikebana/lib/components/sample-tooltip/js/sample-tooltip.js",
+		"/Users/rishabhr/Projects/ikebana/lib/components/sample-tooltip/test/sample-tooltip.js",
+		"/Users/rishabhr/Projects/ikebana/lib/components/sample-tooltip/sample-tooltip.json",
+		"/Users/rishabhr/Projects/ikebana/lib/components/sample-tab/sample-tab.json",
+		"/Users/rishabhr/Projects/ikebana/.git/logs/HEAD",
+		"/Users/rishabhr/Projects/ikebana/.git/logs/refs/heads/master",
+		"/Users/rishabhr/Projects/ikebana/.git/logs/refs/remotes/origin/HEAD",
+		"/Users/rishabhr/Projects/ikebana/.git/logs/refs/remotes/origin/master",
+		"/Users/rishabhr/Projects/ikebana/.jshintignore",
+		"/Users/rishabhr/Projects/ikebana/template/component/css/component.scss",
+		"/Users/rishabhr/Projects/ikebana/template/component/test/component.js",
+		"/Users/rishabhr/Projects/ikebana/lib/components/sample-accordion/sample-accordion.json",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-uglify/node_modules/uglify-js/lib/transform.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/bower/node_modules/request/tests/test-redirect.js",
+		"/Users/rishabhr/Projects/ikebana/.git/TAG_EDITMSG",
+		"/Users/rishabhr/Projects/ikebana/node_modules/bower/node_modules/update-notifier/node_modules/configstore/package.json",
+		"/Users/rishabhr/Projects/ikebana/node_modules/bower/node_modules/mkdirp/test/umask.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-util/lib/buffer.js",
+		"/Users/rishabhr/Projects/ikebana/.git/ORIG_HEAD",
+		"/Users/rishabhr/Projects/ikebana/node_modules/bower/node_modules/mout/lang/toArray.js",
+		"/Users/rishabhr/Projects/ikebana/.git/objects/4a/ac0fedec27434cbd2c44eb1bfa6a7b7ec009cc",
+		"/Users/rishabhr/Projects/ikebana/.git/objects/pack/pack-272e31d062680b3ba523c29912915bf578109dd1.idx",
+		"/Users/rishabhr/Projects/ikebana/lib/components/panel/test/panel.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/bower/node_modules/inquirer/node_modules/cli-color/bin/generate-color-images",
+		"/Users/rishabhr/Projects/ikebana/node_modules/.bin/gulp",
+		"/Users/rishabhr/Projects/ikebana/template/component/bower.json",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-compass/node_modules/through2/node_modules/xtend/has-keys.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/bower/node_modules/q/benchmark/compare-with-callbacks.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-clean/node_modules/rimraf/AUTHORS",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-prompt/node_modules/event-stream/node_modules/through/LICENSE.APACHE2",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-zip/node_modules/adm-zip/test/assets/attributes_test/New folder/hidden_readonly.txt",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-zip/node_modules/adm-zip/test/assets/attributes_test/New folder/hidden.txt",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-compass/node_modules/through2/through2.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/other_path/lib/other-lib.js",
+		"/Users/rishabhr/Projects/ikebana/.git/hooks/applypatch-msg.sample",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/other_path/root.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-prompt/node_modules/inquirer/node_modules/cli-color/test/__playground/throbber.formatted.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/bower/node_modules/inquirer/node_modules/cli-color/test/__playground/throbber.formatted.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-jshint/node_modules/jshint/node_modules/htmlparser2/test/Documents/Attributes.html",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-prompt/node_modules/inquirer/node_modules/cli-color/test/__playground/throbber.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/bower/node_modules/inquirer/node_modules/cli-color/test/__playground/throbber.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-jshint/node_modules/jshint/node_modules/htmlparser2/test/test-helper.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/bower/node_modules/decompress-zip/node_modules/readable-stream/node_modules/core-util-is/float.patch",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-jshint/node_modules/jshint/node_modules/htmlparser2/node_modules/readable-stream/lib/_stream_passthrough.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/bower/node_modules/decompress-zip/node_modules/readable-stream/float.patch",
+		"/Users/rishabhr/Projects/ikebana/.git/hooks/pre-applypatch.sample",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-zip/node_modules/through2/node_modules/readable-stream/lib/_stream_passthrough.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/lib/_stream_passthrough.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-uglify/node_modules/through2/node_modules/readable-stream/lib/_stream_passthrough.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-template/node_modules/through2/node_modules/readable-stream/lib/_stream_passthrough.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-strip-debug/node_modules/through2/node_modules/readable-stream/lib/_stream_passthrough.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-size/node_modules/through2/node_modules/readable-stream/lib/_stream_passthrough.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-mocha/node_modules/through2/node_modules/readable-stream/lib/_stream_passthrough.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-ignore/node_modules/through2/node_modules/readable-stream/lib/_stream_passthrough.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-debug/node_modules/through2/node_modules/readable-stream/lib/_stream_passthrough.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/gulp-compass/node_modules/through2/node_modules/readable-stream/lib/_stream_passthrough.js",
+		"/Users/rishabhr/Projects/ikebana/node_modules/bower/node_modules/decompress-zip/node_modules/readable-stream/lib/_stream_passthrough.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 114.0,
+		"where_history":
+		[
+			"*.js",
+			"*.*",
+			"gulpfile.js",
+			"*.*",
+			"*.js",
+			"*.ascx",
+			"*.css",
+			"*.ascx",
+			"*.*",
+			"*.css",
+			"*.*",
+			"*.js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"zip",
+			"[",
+			"code",
+			"*More tasks may be added in the future.*",
+			"<component-name>",
+			"</component-name>",
+			"^\\*",
+			"^*",
+			"$* ",
+			"folder",
+			"* ",
+			"*",
+			":",
+			"/default",
+			"-->",
+			"<!--",
+			"<ul class=\"slabs\"></ul>",
+			"=\"slab\"",
+			"</li><!--",
+			"<li class=\"column\">",
+			"class=\"slab\"",
+			"  </div>",
+			"class=\"column\"",
+			"pin",
+			"css:doc",
+			"index",
+			"this",
+			"currentItem",
+			"// ",
+			"startAt",
+			"isNext",
+			"carousel-action ",
+			"next",
+			"uration",
+			"duration",
+			"uration",
+			", DIR.cmp.tpl",
+			"component",
+			"/\",",
+			",",
+			"component",
+			" DIR.cmp.tpl",
+			"debug",
+			"create",
+			"css/",
+			"__dirname",
+			"css:compass",
+			"stream",
+			"streams",
+			"$ik",
+			"$button",
+			"primary",
+			"default",
+			"$button",
+			"buttonPrimaryColor",
+			"buttonDisabledBg",
+			"$buttonPrimaryBg",
+			"bg",
+			"button",
+			"$button",
+			" DIR.cmp.src",
+			"*.css",
+			"*.js",
+			".js",
+			"compass",
+			"js:minify",
+			"test",
+			"uglify",
+			"carousel",
+			"<li",
+			"minify",
+			",",
+			"bourbon",
+			"require",
+			"button.js",
+			"⚑",
+			"compass",
+			"sass",
+			"= r",
+			"todo",
+			"uglify",
+			"gutil",
+			"pipecha",
+			" for running",
+			"compass",
+			"build",
+			"minify",
+			"test",
+			"* ",
+			"[gulp]",
+			"name",
+			"option",
+			"\"compass\"",
+			"zip",
+			"\"zip\"",
+			"zip",
+			"lint",
+			"minify",
+			"bump:tag",
+			"bump:commit",
+			"commit",
+			"bump",
+			"minify",
+			"depre",
+			"child",
+			";",
+			"var ",
+			" =",
+			"),",
+			",",
+			"clean",
+			"'",
+			"paths.",
+			"paths.scripts",
+			"'",
+			"src",
+			"var ",
+			"var",
+			"\"zip\"",
+			"\"dist\"",
+			"dist",
+			"rishabhsrao",
+			"rishabh",
+			"rishabhsrao",
+			"bump",
+			"zip",
+			"test",
+			"minif"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"ikebana-ui",
+			"TPL"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ikebana-cli.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"ream",
+				"readme.md"
+			],
+			[
+				"ikebana.css",
+				"examples/example-01/assets/styles/ikebana.css"
+			],
+			[
+				"readme",
+				"readme.md"
+			],
+			[
+				"carousejs",
+				"dist/components/carousel/js/carousel.js"
+			],
+			[
+				"carouseljs",
+				"lib/components/carousel/js/carousel.js"
+			],
+			[
+				"gulpf",
+				"gulpfile.js"
+			],
+			[
+				"layout-fi",
+				"lib/components/core/layout-fixed-header/layout-fixed-header.sass"
+			],
+			[
+				"gemfillock",
+				"Gemfile.lock"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"read",
+				"readme.md"
+			],
+			[
+				"travis",
+				".travis.yml"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"gitign",
+				".gitignore"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"path",
+				"node_modules/gulp-mocha/node_modules/mocha/lib/browser/path.js"
+			],
+			[
+				"gitignore",
+				".gitignore"
+			],
+			[
+				"gitigi",
+				"node_modules/gulp-mocha/node_modules/mocha/node_modules/jade/node_modules/mkdirp/.gitignore.orig"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"gu",
+				"gulpfile.js"
+			],
+			[
+				"miquestionsupload",
+				"web/Tracs/Product/Website/TraCS3Web/js/miQuestionsUpload.js"
+			],
+			[
+				"dialog.css",
+				"callcentre/Spikes/Mockups/css/dialog.css"
+			],
+			[
+				"custom",
+				"ContentServer/Content/CustomizedLabels/CustomizedLabels.xml"
+			],
+			[
+				"detailedshopp",
+				"web/Tracs/Product/WebComponents/ShoppingBasket/src/js/DetailedShoppingBasket.js"
+			],
+			[
+				"beforeyou",
+				"web/Tracs/Product/Website/TraCS3Web/js/beforeyoucontinue.js"
+			],
+			[
+				"detailedshopping",
+				"web/Tracs/Product/WebComponents/ShoppingBasket/src/View/Portals/Common/DetailedShoppingBasket.ascx"
+			],
+			[
+				"business.css",
+				"ContentServer/Content/Themes/Portals/business/css/business.css"
+			],
+			[
+				"customizedlabe",
+				"ContentServer/Content/CustomizedLabels/CustomizedLabels.xml"
+			],
+			[
+				"paxmioptions.ascx",
+				"web/Tracs/Product/WebComponents/JourneyOptions/src/WebComponent/View/Portals/Common/PAXMIOptions.ascx"
+			],
+			[
+				"travelessentials.",
+				"callcentre/Product/JourneySearch/test/JourneySearch.QUnit.Tests/TravelEssentials.qunit.html"
+			],
+			[
+				"",
+				"._.DS_Store"
+			],
+			[
+				"journeysummary.ascx",
+				"web/Tracs/Product/WebComponents/JourneyPlanning/WebControlsForTest/JourneySummary.ascx"
+			],
+			[
+				"bookingmi",
+				"web/Tracs/Product/WebComponents/MIQuestions/src/View/Portals/Common/BookingMIQuestions.ascx"
+			],
+			[
+				"bookingmiq",
+				"web/Tracs/Product/WebComponents/MIQuestions/src/View/Portals/Common/BookingMIQuestions.ascx"
+			],
+			[
+				"thetrainlin",
+				"ContentServer/Content/Themes/Portals/thetrainline/css/TheTrainline.css"
+			],
+			[
+				"shoppingbasket.ascx",
+				"web/Tracs/Product/WebComponents/ShoppingBasket/src/View/Portals/Common/DetailedShoppingBasket.ascx"
+			],
+			[
+				"makepayment.ascx",
+				"web/Tracs/Product/WebComponents/Payment/src/View/Portals/Common/MakePayment.ascx"
+			],
+			[
+				"quicklogin.js",
+				"web/Tracs/Product/Website/TraCS3Web/js/QuickLogin.js"
+			],
+			[
+				"thetrain",
+				"ContentServer/Content/Themes/Portals/thetrainline/css/TheTrainline.css"
+			],
+			[
+				"paxmi",
+				"web/Tracs/Product/WebComponents/JourneyOptions/src/WebComponent/View/Portals/Common/PAXMIOptions.ascx"
+			],
+			[
+				"travelessentials.css",
+				"ContentServer/Content/Themes/Portals/business/css/travelessentials.css"
+			],
+			[
+				"travelesscss",
+				"ContentServer/Content/Themes/Global/Css/travelessentials.css"
+			],
+			[
+				"combinedmatrix.css",
+				"ContentServer/Content/Themes/Global/Css/combinedmatrix.css"
+			],
+			[
+				"crosscountrycombinedmatrix",
+				"ContentServer/Content/Themes/Portals/CrossCountryTrains/css/combinedmatrix.css"
+			],
+			[
+				"tracs/product/webcomponents/journeyoptions/src/webcomponent/view/portals/common/paxpassengerdetails.ascx",
+				"web/Tracs/Product/WebComponents/JourneyOptions/src/WebComponent/View/Portals/Common/PAXPassengerDetails.ascx"
+			],
+			[
+				"combinedmatrixtooltip",
+				"web/Tracs/Product/Website/TraCS3Web/js/CombinedMatrixTooltip.js"
+			],
+			[
+				"ctrcollectionpref",
+				"web/Tracs/Product/WebComponents/DeliveryOptions/WebControlsForTest/CTRCollectionPreferencesBubble.ascx"
+			],
+			[
+				"overlay.js",
+				"web/Tracs/Product/Website/TraCS3Web/js/overlay.js"
+			],
+			[
+				"travelleroverlay",
+				"web/Tracs/Product/Website/TraCS3Web/js/travellerOverlay.js"
+			],
+			[
+				"common.js",
+				"web/Tracs/Product/Website/TraCS3Web/js/Common.js"
+			],
+			[
+				"combinedmatrixtoolti",
+				"web/Tracs/Product/Website/TraCS3Web/js/CombinedMatrixTooltip.js"
+			],
+			[
+				"paxmiop",
+				"web/Tracs/Product/WebComponents/JourneyOptions/WebControlsForTest/PAXMIOptions.ascx"
+			],
+			[
+				"viewbookingdetails.css",
+				"ContentServer/Content/Themes/Global/Css/viewbookingdetails.css"
+			],
+			[
+				"thetrainline.css",
+				"ContentServer/Content/Themes/Portals/thetrainline/css/TheTrainline.css"
+			],
+			[
+				"/journeyoptions/src/webcomponent/command/bookingcreator.c",
+				"web/Tracs/Product/WebComponents/JourneyOptions/src/WebComponent/Command/BookingCreator.cs"
+			],
+			[
+				"content/themes/portals/crosscountrytrains/css/combinedmatrix.css",
+				"ContentServer/Content/Themes/Portals/CrossCountryTrains/css/combinedmatrix.css"
+			],
+			[
+				"commoncomponents",
+				"web/Tracs/Product/WebComponents/CommonComponents/CommonComponents.sln"
+			],
+			[
+				"thetrainlinetravelessentials.css",
+				"ContentServer/Content/Themes/Portals/thetrainline/css/travelessentials.css"
+			],
+			[
+				"paxmioptions",
+				"web/Tracs/Product/WebComponents/JourneyOptions/WebControlsForTest/PAXMIOptions.ascx"
+			],
+			[
+				"formelements",
+				"ContentServer/Content/Themes/Global/Css/form_elements.css"
+			],
+			[
+				"bookeroptions",
+				"web/Tracs/Product/WebComponents/JourneyOptions/src/WebComponent/View/Portals/Common/BookerOptions.ascx"
+			],
+			[
+				"index",
+				"public/index.html"
+			],
+			[
+				"configym",
+				"_config.yml"
+			],
+			[
+				"screen",
+				"sass/screen.scss"
+			],
+			[
+				"config",
+				"server/config.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projects/jet-airways/jet-airways.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

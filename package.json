@@ -1,0 +1,23 @@
+{
+  "name": "ikebana",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ikebana-ui/ikebana-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikebana-ui/ikebana-cli/issues"
+  },
+  "homepage": "https://github.com/ikebana-ui/ikebana-cli",
+  "devDependencies": {},
+  "dependencies": {
+    "minimist": "^0.1.0"
+  }
+}
